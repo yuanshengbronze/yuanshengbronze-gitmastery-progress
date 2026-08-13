@@ -144,5 +144,14 @@
       "You should be ignoring the rest of many/* except many/file22.txt!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1786601920.545335,
+    "completed_at": 1786601928.084824,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
   }
 ]
