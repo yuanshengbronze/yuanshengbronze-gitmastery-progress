@@ -396,5 +396,14 @@
       "Branch 'VWX' still exists locally! Remember to delete it from your local repository."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-rename",
+    "started_at": 1787322244.328174,
+    "completed_at": 1787322249.577013,
+    "comments": [
+      "Local branch STU still exists."
+    ],
+    "status": "Incomplete"
   }
 ]
