@@ -306,15 +306,5 @@
       "Good job performing a merge squash!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "merge-undo",
-    "started_at": 1787314514.432725,
-    "completed_at": 1787314517.741865,
-    "comments": [
-      "The 'main' branch is not pointing to the correct commit. It should be pointing to the commit made just before the merges.",
-      "Reset the repository using \"gitmastery progress reset\" and start again"
-    ],
-    "status": "Incomplete"
   }
 ]
